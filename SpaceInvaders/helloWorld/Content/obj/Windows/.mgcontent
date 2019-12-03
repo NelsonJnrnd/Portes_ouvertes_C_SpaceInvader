@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Hassoul/Desktop/Atelier Comminot/MonoGame/Space_Invader/helloWorld/Content/Image/button.png</File>
+    <File>C:/Users/Administrateur/Desktop/Atelier Comminot/MonoGame/Space_Invader/helloWorld/Content/../../img/bigLaser.png</File>
+    <File>C:/Users/Administrateur/Desktop/Atelier Comminot/MonoGame/Space_Inveder/helloWorld/Content/Invader.png</File>
+    <File>C:/Users/Administrateur/Desktop/Atelier Comminot/MonoGame/helloWorld/helloWorld/Content/vessel.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>bigLaser.png</File>
+  </DestFiles>
+</SourceFileCollection>
