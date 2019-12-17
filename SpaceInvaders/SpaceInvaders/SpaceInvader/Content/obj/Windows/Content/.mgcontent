@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/../../img/bigLaser.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/../../img/buttons.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/../../img/doubleLaserBoost.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/../../img/Invader.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/../../img/mainBackground.jpg</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/../../img/redLaser.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/../../img/TripleShootBoost.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/Arial.spritefont</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/black.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/explosion.gif</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/laser.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/LifeBar.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/LifeBarRed.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/oui.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/ScoreFont.spritefont</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/spriteGif_explostion.png</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/Title.spritefont</File>
+    <File>C:/Users/wohlersl/Desktop/SpaceInvaders/SpaceInvaders/SpaceInvader/Content/yellowLaser.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>bigLaser.png</File>
+    <File>buttons.png</File>
+    <File>doubleLaserBoost.png</File>
+    <File>Invader.png</File>
+    <File>mainBackground.jpg</File>
+    <File>redLaser.png</File>
+    <File>TripleShootBoost.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>vessel.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
